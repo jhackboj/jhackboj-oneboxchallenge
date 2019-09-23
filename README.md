@@ -1,4 +1,4 @@
-ONEBOX CHALLENGE CODE
+ONEBOX CODE CHALLENGE
 ======================
 
 Solucion del problema de trenes propuesto por onebox
