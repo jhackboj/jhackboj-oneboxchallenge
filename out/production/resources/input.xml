@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<onebox>
+    <version>1</version>
+    <routes>AB5, BC4, CD8, DC8, DE6, AD5, CE2, EB3, AE7</routes>
+    <distance id="1">A-B-C</distance>
+    <distance id="2">A-D</distance>
+    <distance id="3">A-D-C</distance>
+    <distance id="4">A-E-B-C-D</distance>
+    <distance id="5">A-E-D</distance>
+</onebox>
