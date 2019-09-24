@@ -4,7 +4,7 @@ import es.onebox.exercise.trains.facade.RouteService;
 import es.onebox.exercise.trains.file.InputModel;
 import es.onebox.exercise.trains.models.Graph;
 
-public class GraphBuilder implements ManageCommands
+public class GraphBuilder implements ExecutorBuilders
 {
 
     private final InputModel input;

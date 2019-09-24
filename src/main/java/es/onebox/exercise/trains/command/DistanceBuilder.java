@@ -7,7 +7,7 @@ import es.onebox.exercise.trains.models.Route;
 import java.io.PrintStream;
 import java.util.List;
 
-public class DistanceBuilder implements ManageCommands
+public class DistanceBuilder implements ExecutorBuilders
 {
 
     private final InputModel input;
